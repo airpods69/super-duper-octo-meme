@@ -210,6 +210,8 @@ async fn search_duckduckgo(query: &str) -> Result<String, Box<dyn std::error::Er
     Ok(combined_content)
 }
 
+
+// TODO: Fix the parser error with JSON
 #[post("/create_plan", data = "<request>")]
 async fn create_plan(request: Json<ChatRequest>) -> String {
     // ------------------------------------------------------------------
