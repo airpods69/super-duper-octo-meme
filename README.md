@@ -1,4 +1,5 @@
 # MLS GigaChad - AI Programming & Planning Agent
+(AI generated, I just wanted a placeholder for README.md)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
